@@ -1,9 +1,9 @@
 {
-	"generatedAt": "2026-08-07T16:46:04.800Z",
+	"generatedAt": "2026-09-01T15:20:55.516Z",
 	"bucket": "vlanc-lab-assets",
 	"publicBaseUrl": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev",
 	"assetPrefix": "vlanc-lab/assets",
-	"count": 80,
+	"count": 85,
 	"assets": {
 		"/docs/2019_Con2KG.pdf": {
 			"key": "vlanc-lab/assets/docs/2019_Con2KG.pdf",
@@ -229,6 +229,27 @@
 			"contentType": "application/pdf",
 			"sha256": "273e84cdd14ac220ed5ac66ebbbc335a82bfaf600ed6a62eb4fa79034c6da356"
 		},
+		"/teachings/essentials-data-science/Lectures/Lecture-0-Overview.pdf": {
+			"key": "vlanc-lab/assets/teachings/essentials-data-science/Lectures/Lecture-0-Overview.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/essentials-data-science/Lectures/Lecture-0-Overview.pdf",
+			"size": 1397361,
+			"contentType": "application/pdf",
+			"sha256": "090cd118f094f0ad9c4f2f5ce740549e9192ab31617bfcb0bf0a3636b48d6d20"
+		},
+		"/teachings/essentials-data-science/Lectures/Lecture-1.pdf": {
+			"key": "vlanc-lab/assets/teachings/essentials-data-science/Lectures/Lecture-1.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/essentials-data-science/Lectures/Lecture-1.pdf",
+			"size": 797324,
+			"contentType": "application/pdf",
+			"sha256": "c1b01d2a3dafec5a58ed77575ed26bc74cd0855ab88ff3622108065c4bc78ecd"
+		},
+		"/teachings/essentials-data-science/Syllabus/EDS-syllabus-2026.pdf": {
+			"key": "vlanc-lab/assets/teachings/essentials-data-science/Syllabus/EDS-syllabus-2026.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/essentials-data-science/Syllabus/EDS-syllabus-2026.pdf",
+			"size": 60790,
+			"contentType": "application/pdf",
+			"sha256": "6c066d4c6facdc24b4574eab99fb38c7ef89e78061b94e8105c5c883c1bf9661"
+		},
 		"/teachings/fall-2026/Class-notes/Vae-math.pdf": {
 			"key": "vlanc-lab/assets/teachings/fall-2026/Class-notes/Vae-math.pdf",
 			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Class-notes/Vae-math.pdf",
@@ -270,6 +291,34 @@
 			"size": 1485226,
 			"contentType": "application/pdf",
 			"sha256": "a3b7b8a7762d6fe61fc4118d6fc0c3a5ded40d319b71fe6d29cf40a085796c21"
+		},
+		"/teachings/fall-2026/Lectures/Lecture-4-Implicit-generative-models.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-4-Implicit-generative-models.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-4-Implicit-generative-models.pdf",
+			"size": 1304351,
+			"contentType": "application/pdf",
+			"sha256": "68f98279955047c27a41568bd84bfb85935850335bbc17706b16423840e9f95f"
+		},
+		"/teachings/fall-2026/Lectures/Lecture-5.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-5.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-5.pdf",
+			"size": 1253938,
+			"contentType": "application/pdf",
+			"sha256": "96c614d9daf88d7a4daaae38261aefeb90a6a61b575c498efb405ee938bddce2"
+		},
+		"/teachings/fall-2026/Lectures/Lecture-6.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-6.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-6.pdf",
+			"size": 1937660,
+			"contentType": "application/pdf",
+			"sha256": "132ec58d780da97fd4504adcd14a59ee561de8d5efd948346eda840f9772a12c"
+		},
+		"/teachings/fall-2026/Lectures/Lecture-7.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-7.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-7.pdf",
+			"size": 2209295,
+			"contentType": "application/pdf",
+			"sha256": "4a065e09e487d93264ae491b9d1d324b1c4311264b9d056afd0774d1f22064e6"
 		},
 		"/teachings/fall-2026/Resources/978-3-031-64087-2%20(1).pdf": {
 			"key": "vlanc-lab/assets/teachings/fall-2026/Resources/978-3-031-64087-2 (1).pdf",
@@ -487,20 +536,6 @@
 			"size": 176605,
 			"contentType": "application/pdf",
 			"sha256": "a5ae50b1904a6125640f0d6716c11be7300b0349a8a57b3bca5fcc96aa922562"
-		},
-		"/gen-ai-contents/Lectures/Ticket_404141829085_12.08.2026__H.pdf": {
-			"key": "vlanc-lab/assets/gen-ai-contents/Lectures/Ticket_404141829085_12.08.2026__H.pdf",
-			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Lectures/Ticket_404141829085_12.08.2026__H.pdf",
-			"size": 173170,
-			"contentType": "application/pdf",
-			"sha256": "f82ac379ff06e8ce09f8818d8dd8d642f471a39d695f31aa824064c5adfee580"
-		},
-		"/gen-ai-contents/Lectures/Ticket_586946411225_21.08.2026__H.pdf": {
-			"key": "vlanc-lab/assets/gen-ai-contents/Lectures/Ticket_586946411225_21.08.2026__H.pdf",
-			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Lectures/Ticket_586946411225_21.08.2026__H.pdf",
-			"size": 173510,
-			"contentType": "application/pdf",
-			"sha256": "5e425d4883f1f20f406267058662e672dedc009ffbd8d6e67e5139918f6f1f78"
 		},
 		"/gen-ai-contents/Practice-tests/Practice-Set-1_CS5202.pdf": {
 			"key": "vlanc-lab/assets/gen-ai-contents/Practice-tests/Practice-Set-1_CS5202.pdf",
